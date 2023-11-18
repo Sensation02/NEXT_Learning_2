@@ -77,6 +77,9 @@ export default function LoginPage() {
       <Link href='/signup'>
         Don&apos;t have account? <strong>Signup</strong>
       </Link>
+      <Link href='/reset'>
+        Forgot your password? <strong>Reset it</strong>
+      </Link>
     </div>
   )
 }
